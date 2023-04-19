@@ -37,6 +37,7 @@ Suggests:
     ggplot2,
     grDevices,
     knitr,
+    networkD3,
     pkgdown,
     rmarkdown,
     RColorBrewer,
